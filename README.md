@@ -1,2 +1,2 @@
 # tw-calculadora-ws
-Serviço de calculadora utilizando SOAP(JAX-WS)
+Serviço SOAP(JAX-WS) de calculadora
